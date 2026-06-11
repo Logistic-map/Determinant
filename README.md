@@ -12,9 +12,11 @@ https://scratch.mit.edu/projects/1329961661/
 起動するとこのように出ます。
 
 下の青いマスをタップすると、入力モードになります。
+
 https://github.com/user-attachments/assets/5581852e-01a4-469c-a35e-9423e7e519d2
 
 数字が出ているときに、ボタンを押すと入力できます。
+
 https://github.com/user-attachments/assets/fecccd88-1ea9-4d77-be4d-eeac33d5c6e0
 
 操作方法
