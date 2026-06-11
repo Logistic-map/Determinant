@@ -19,7 +19,11 @@ https://scratch.mit.edu/projects/1329961661/
 
 削除　　　　左矢印キー
 
-マイナス　　Mキー　　　　　　　　　　　　　　
+マイナス　　Mキー
+
+確定　　　　Eまたは上矢印キーまたはスペースキー
+
+
 
 参考・効果音　https://github.com/lambda-tech-club/applied-math-alarm
 →こちらの簡易バージョンみたいな感じで作らせていただきました。yoideaさんありがとうございます。
